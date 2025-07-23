@@ -5,88 +5,74 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 👋 About Me
 
-Mobile applications developer with over 3 years of experience, specializing in iOS development using Swift. Proficient in Android (Kotlin) and cross-platform development with Flutter. I excel at adapting to diverse projects, delivering efficient solutions, and collaborating effectively in agile environments. Committed to continuous learning and product quality.
+Software developer with extensive experience building mobile applications—focused on the iOS ecosystem—and used to leading projects and teams to production‑ready releases. I combine strong technical skills with clear, confident communication: I love explaining complex solutions, fostering collaboration across disciplines and creating an upbeat working atmosphere. My goal is to transform business needs into finely crafted digital experiences with a results‑ and user‑oriented mindset.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technical Skills
 
-### **Hiberus Tecnología**  
-*Mobile Applications Developer (iOS)*  
-📍 Zaragoza, Spain | 🗓️ September 2023 – Present  
-- Developing native iOS applications using Swift and SwiftUI.
-- Collaborating with multidisciplinary teams on high-impact projects.
-- Implementing solutions following the Mobile First philosophy and agile methodologies.
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Languages** | Swift 6, Kotlin, Dart, PHP, Python |
+| **Frameworks** | SwiftUI, UIKit, Flutter, MVVM‑Clean |
+| **DevOps / QA** | Bitrise, GitHub Actions, SonarQube |
 
-### **Zydia Informática**  
-*Mobile/Web Developer*  
-📍 Zaragoza, Spain | 🗓️ January 2023 – August 2023  
-- Developed and maintained native mobile applications for iOS (Swift) and Android (Kotlin).
-- Implemented new features in logistics enterprise apps.
-- Improved overall app performance, reducing load times by 30%.
-- Collaborated on REST API integrations and secure authentication systems.
+---
 
-### **esPublico Servicios para la Administración**  
-*Technology Consultant*  
-📍 Zaragoza, Spain | 🗓️ October 2019 – January 2023  
-- Implemented e-Government solutions for public administrations.
-- Coordinated technical aspects with providers and system managers.
-- Automated administrative workflows using proprietary tools.
-- Initiated Flutter development for internal prototypes.
+## 🚀 Work Experience
 
-### **BSH Electrodomésticos**  
-*Development Technician (R&D)*  
-📍 Zaragoza, Spain | 🗓️ June 2015 – March 2018  
-- Simulated, tested, and modeled laboratory tests for electronic devices.
-- Documented technical processes and results for production integration.
+### iOS Developer — **Hiberus** (Aug 2023 → Present)
+- Built internal enterprise apps in **Swift / SwiftUI** (MVVM‑Clean).
+- Managed dependencies via **Swift Package Manager**.
+- Designed **CI/CD** with Bitrise + GitHub Actions + SonarQube.
+- Published **CMMPlay** (7 000 + active users, ★5.0) on the App Store.
+
+### Mobile & Web Developer — **Zydia Informática** (Jan 2023 → Dec 2023)
+- Developed cross‑platform apps in **Flutter** (Android & iOS).
+- Migrated legacy Android apps to **Kotlin**.
+- Integrated REST APIs in **PHP** & connected to **Sage ERP**.
+
+### Technical Analyst & Consultant — **Espublico S.A.** (Oct 2019 → Dec 2022)
+- Implemented **Gestiona** e‑government platform for public bodies.
+- Wrote Python scripts & RPA bots for data migration and automation.
+- Built operational dashboards; delivered on‑site & e‑learning training.
+
+### Part‑Time Tutor — **Enseñalia** (Nov 2017 → Oct 2019)
+- Coordinated study hall and taught STEM subjects (Math, Physics, CAD).
+
+### Development Technician (R&D Oven Lab) — **BSH Home Appliances** (Jun 2015 → Apr 2018)
+- Performed thermal/mechanical simulations (Ansys, Simulink, Matlab).
+- Automated test‑data capture & managed SAP PLM release workflows.
+
+---
+
+## 📱 Highlighted Projects
+
+| Project | Description |
+|---------|-------------|
+| **CMMPlay** | Public video‑streaming platform — live on the App Store. |
+| **Vueling People** | Private enterprise app for Vueling employees (internal distribution). |
+| **Saica Natur (iPad)** | Internal order‑reception app for Saica Natur logistics. |
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Engineering** – Universitat Oberta de Catalunya (UOC)  
-  *In progress, 3rd year*
-
-- **Higher Technician in Multiplatform Application Development** – Ilerna  
-  *2021 – 2022*
-
-- **Industrial Engineering** – University of Zaragoza  
-  *2008 – 2015*
-
-- **Erasmus Program** – TU Braunschweig (Germany)  
-  *2012 – 2013*
-
----
-
-## 🧰 Technical Skills
-
-- **iOS**: Swift, SwiftUI, UIKit, Combine, CoreData, SwiftData  
-- **Android**: Kotlin, Jetpack, Room  
-- **Cross-Platform**: Flutter, Dart  
-- **Backend / Web**: PHP, JavaScript, jQuery, Bootstrap  
-- **Tools**: Git, RESTful APIs, Firebase, SQLite, Figma  
-- **Methodologies**: Scrum, GitFlow
+- **BSc in Computer Engineering** *(in progress, expected 2026)* — Universitat Oberta de Catalunya (UOC) · 240 ECTS
+- **Higher Technician Diploma in Multiplatform Application Development** — ILERNA · 2 000 h / 120 ECTS, EQF 5
+- **Industrial Engineering – Electronics** — University of Zaragoza
+- **Erasmus Exchange** — TU Braunschweig (Germany)
 
 ---
 
 ## 🌐 Languages
 
-- **English**: C1 (Professional)  
-- **German**: A2
+- **Spanish** — Native
+- **English** — C1
+- **German** — B1
 
 ---
 
-## 🤝 Soft Skills
-
-- Clear communication with technical and non-technical teams  
-- Efficient time management and autonomy  
-- Rapid adaptation to new technologies  
-- Occasional mentoring of junior profiles
-
----
-
-## 📎 References
-
-Available upon request.
+> "Transforming ideas into intuitive, high‑quality apps that users love."
